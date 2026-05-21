@@ -24,3 +24,11 @@ Cross-functional Engineering Leader specialized in bridging the gap between core
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
 | **SQL Servers** | ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 | **DevOps** | ![Git](https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-maldonado&theme=dark&hide_border=true" alt="GitHub streak stats" />
+</p>
